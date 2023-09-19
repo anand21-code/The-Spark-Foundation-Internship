@@ -16,7 +16,7 @@ In this internship, we were provided a task, and I was able to complete it succe
 
 
 ### # Task-3 : Prediction using Decision Tree Algorithm (Level: Intermediate)
-_Please click on the images on the right side to view my solution._
+ Please click on the images on the right side to view my solution.
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 1. The purpose is that if we feed any new data to this classifier, it will be able to predict the right class accordingly or not.
